@@ -10,10 +10,14 @@
 
 "- 📫 How to reach me:": "https://github.com/JFCHJ95"
 
+### Languages I like:
+
 <p align="center">
 <a href="https://github.com/JFCHJ95"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="https://github.com/JFCHJ95"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
 </p><br>
+
+### Operating Systems:
 
 <p align="center">
 <a href="https://github.com/JFCHJ95">
@@ -21,6 +25,8 @@
 </a>
 <a href="https://github.com/JFCHJ95"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 </p><br>
+
+### Contact with me:
 
 <p align="center">
  <a href="https://github.com/JFCHJ95"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
