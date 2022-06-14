@@ -1,15 +1,11 @@
 ### Hi there. I'm Jonathan Fernando 👋
 
-"- ⚡ Quick bio:": "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
+"- ⚡ Quick bio:": "I am a multifunctional person, eager to keep learning about the huge world of programming."
 
-"- 🔭 I’m currently working on": "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
+"- 🔭 I’m currently working on": "JRTEC dedicated to software developmentr"
 
-"- 🌱 I’m currently learning": "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+"- 🌱 I’m currently learning": "python, linux and the structure for software design"
 
-"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+"- 👯 I’m looking to collaborate on": "Python and Java related projects"
 
-"- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
-
-"- 💬 Ask me about": "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-
-"- 📫 How to reach me:": "https://github.com/AnhellO#you-can-reach-me-at-alien",
+"- 📫 How to reach me:": "https://github.com/AnhellO#you-can-reach-me-at-alien"
