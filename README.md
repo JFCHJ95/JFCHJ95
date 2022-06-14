@@ -1,4 +1,4 @@
-### Hi there. I'm Jonathan Fernando 👋
+### Hi there. I'm Jonathan Fernando and I'm a student of the EPN 👋
 
 "- ⚡ Quick bio:": "I am a multifunctional person, eager to keep learning about the huge world of programming."
 
