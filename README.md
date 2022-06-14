@@ -8,7 +8,7 @@
 
 "- 👯 I’m looking to collaborate on": "Python and Java related projects"
 
-"- 📫 How to reach me:": "[https://github.com/AnhellO#you-can-reach-me-at-alien](https://github.com/JFCHJ95)"
+"- 📫 How to reach me:": "https://github.com/JFCHJ95"
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
