@@ -2,7 +2,7 @@
 
 "- ⚡ Quick bio:": "I am a multifunctional person, eager to keep learning about the huge world of programming."
 
-"- 🔭 I’m currently working on": "JRTEC dedicated to software developmentr"
+"- 🔭 I’m currently working on": "JRTEC dedicated to software development"
 
 "- 🌱 I’m currently learning": "python, linux and the structure for software design"
 
